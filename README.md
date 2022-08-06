@@ -7,6 +7,12 @@ A Food Detector Project created using YoloV5 and PyTorch run Jetson Nano
 3. Logitech C270 HD Webcam
 4. Wifi Adapter
 
+## Dataset
+Dataset is been collected from Internet
+
+## Dataset Annotation
+Dataset are being annotate using [Roboflow](https://roboflow.com/) with 3 classes; rice,fried chicken and egg
+
 ## Create a new environment with Python Version 3.8
 $ conda create -n myenv python=3.8
 
