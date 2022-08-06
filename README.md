@@ -48,3 +48,6 @@ $ conda create -n myenv python=3.8
 
 ## Run the Inferences using webcam
 $ python detect.py --weights food.pt --source 0
+
+## Thank You
+Thank you for all the lecturers, facilitators, friends and family for helping me to develop the project. Any kind of improvement or suggestions are most welcomed.
