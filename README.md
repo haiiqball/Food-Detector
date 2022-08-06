@@ -13,9 +13,9 @@ $ conda create -n myenv python=3.8
 ## Installation
 
 1. Clone the YoloV5 repo
-   - git clone https://github.com/ultralytics/yolov5
-   - cd yolov5
-   - pip install -r requirements.txt
+   - $ git clone https://github.com/ultralytics/yolov5
+   - $ cd yolov5
+   - $ pip install -r requirements.txt
    
 2. Modify requirements.txt
    - Locate and open YoloV5 directory
