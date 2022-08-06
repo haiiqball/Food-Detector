@@ -42,10 +42,10 @@ Managing environment guides [here](https://docs.conda.io/projects/conda/en/lates
 2. Activate python3 by inserting $ python3
 3. $ import torch
 4. $ torch.cuda.is_available()
-5. torch.cuda.current_device()
-6. torch.cuda.device(0)
-7. torch.cuda.device_count()
-8. torch.cuda.get_device_name(0)
+5. $ torch.cuda.current_device()
+6. $ torch.cuda.device(0)
+7. $ torch.cuda.device_count()
+8. $ torch.cuda.get_device_name(0)
 
 
 ## Run the Inferences using webcam
