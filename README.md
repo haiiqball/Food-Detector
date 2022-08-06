@@ -9,6 +9,7 @@ A Food Detector Project created using YoloV5 and PyTorch run Jetson Nano
 
 ## Create a new environment with Python Version 3.8
 $ conda create -n myenv python=3.8
+Managing envoirenment guides [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#viewing-a-list-of-your-environments)
 
 ## Installation
 
