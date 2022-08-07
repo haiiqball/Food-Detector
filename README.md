@@ -8,7 +8,7 @@ A Food Detector Project created using YoloV5 and PyTorch run Jetson Nano
 4. Wifi Adapter
 
 ## Dataset
-Dataset is been collected from Internet
+Dataset is being collected from Internet
 
 ## Dataset Annotation
 Dataset are being annotate using [Roboflow](https://roboflow.com/) with 3 classes; rice,fried chicken and egg
